@@ -1,0 +1,12 @@
+/* src/index.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f0f2f5; /* This matches the light gray in our App.jsx */
+  width: 100%;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+}
